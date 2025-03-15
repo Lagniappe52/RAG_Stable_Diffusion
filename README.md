@@ -19,18 +19,18 @@ Install required libraries:
 ## Usage
 1. Clone the repository into Google CoLab
 ```
-https://github.com/your_username/MultiModal-AI-App.git
+https://github.com/Lagniappe52/RAG_Stable_Diffusion.git
 ```
 2. Upload code to Google Colab
 3. Run the Streamlit application
 ```
 1. Press Ctrl-F9 to run application from Google Colab.
-2. Copy the IP address listed after cell 3.
-3. Click the link provided after cell 4.
+2. Copy the generated IP address listed.
+3. Click the link provided near the end of the code.
 ```
 4. The application will automatically open in your browser
 ```
-Paste the IP address into the password field and the application will run.
+Paste the IP address into the password field and click 'Submit' to run the application.
 ```
 5. Alternate option
 ```
