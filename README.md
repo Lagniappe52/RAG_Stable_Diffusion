@@ -38,8 +38,8 @@ Paste the IP address into the password field and click 'Submit' to run the appli
 2. Run the application via the terminal using the command:
     streamlit run your_app.py
 ```
-Application demonstration video:
-https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60c16e68-54c0-4763-9bf1-b293001b5f30
+View of interface with question and generated text and image:
+![image](https://github.com/user-attachments/assets/50ceb8e4-def2-4a72-9e12-20b51f112067)
 
 Jupyter notebook link:
-https://colab.research.google.com/drive/1HTXiWRAhBNIzwMQeoQwasYznkddr2BuP?usp=sharing 
+https://colab.research.google.com/drive/1jydlsUMTodaovzAjc9Zpul2riUbXGBNA?usp=sharing
